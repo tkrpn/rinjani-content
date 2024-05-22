@@ -1,0 +1,69 @@
+{
+  "heroSection": {
+    "welcomeMessage": "Welcome to Mount Rinjani!",
+    "callToAction": "Explore Mount Rinjani",
+    "contactInfo": {
+      "email": "contact@rinjani-trekking.com",
+      "phone": "+62 812-3456-7890"
+    },
+    "bookingButton": {
+      "text": "Book Now",
+      "url": "https://example.com/book-now"
+    }
+  },
+  "tours": [
+    {
+      "id": 1,
+      "title": "2-day/1-night Tour",
+      "description": "Experience an unforgettable 2-day trek on Mount Rinjani with a night under the stars.",
+      "highlights": [
+        "Breathtaking landscapes",
+        "Overnight camping",
+        "Experienced guides"
+      ],
+      "duration": "2 Days, 1 Night",
+      "price": "150 USD",
+      "startLocation": "Senaru Village",
+      "endLocation": "Senaru Village",
+      "elevationGain": "2000 meters",
+      "distance": "16 kilometers",
+      "moreInfoUrl": "https://example.com/tours/2-day-1-night"
+    },
+    {
+      "id": 2,
+      "title": "3-day/2-night Tour",
+      "description": "An intensive 3-day trek on Mount Rinjani with two nights under the stars, perfect for adventure seekers.",
+      "highlights": [
+        "Spectacular sunrises",
+        "Two nights camping",
+        "Exploration of the crater lake"
+      ],
+      "duration": "3 Days, 2 Nights",
+      "price": "250 USD",
+      "startLocation": "Sembalun Village",
+      "endLocation": "Senaru Village",
+      "elevationGain": "3000 meters",
+      "distance": "28 kilometers",
+      "moreInfoUrl": "https://example.com/tours/3-day-2-night"
+    }
+  ],
+  "guide": {
+    "name": "Fiki Santoso",
+    "bio": "Fiki is an experienced trekking guide with over 10 years of experience on Mount Rinjani. He knows every path and loves to share his passion for nature with others.",
+    "qualifications": [
+      "Certified mountain guide",
+      "First aid training",
+      "Fluent in English and Bahasa Indonesia"
+    ],
+    "testimonials": [
+      {
+        "name": "Anna Müller",
+        "quote": "The tour with Fiki was an unforgettable experience! He is very professional and knows the mountain like the back of his hand."
+      },
+      {
+        "name": "John Doe",
+        "quote": "Fiki is a great guide! His knowledge and friendly demeanor made the trek a highlight of my vacation."
+      }
+    ]
+  }
+}
